@@ -9,8 +9,8 @@ echo " Hi Good Evening to everyone! "
 sleep 2
 echo " Please enter a name :  "
 sleep 2
-read name
-echo " Hi $name Wishing you a Happy New Year 2023 with the hope that you will have many blessings in the year to come "
+#read name
+#echo " Hi $name Wishing you a Makar Sakaranti 2023 with the hope that you will have many blessings in the year to come "
 
 echo " *************************************************************** "
 
